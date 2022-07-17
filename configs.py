@@ -43,7 +43,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍ **Developer:** @AbirHasan2005
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://github.com/sharanugowda/MT-FilesStoreBot/blob/main/README.md)
 
 👨‍💻 **Editing:** @Mrk_YT
 
